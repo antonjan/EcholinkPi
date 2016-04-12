@@ -1,5 +1,6 @@
 # EcholinkPi
 This will holed the source code for the Echo-link Shield board for Raspberry Pi 2<br>
+This PCB will be used by Radio Amateurs to create a local hotspot Link to Echolink. (Ham license required)<br>
 <b>Requirements for this project</b><br>
 1) This repository will have the details of a PCB and Software for a Echolink comunication Board with a build in VHF or UHF trancever.<br>
 2) This PCB will use the internal Serial interface of the Raspberry PI 2 P5 connector to controle the trancever.<br>
