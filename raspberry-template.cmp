@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (2013-mar-25)-stable date = Montag, 23. September 2013 20:28:48
+
+BeginCmp
+TimeStamp = /5240880E;
+Reference = P1;
+ValeurCmp = CONN_13X2;
+IdModule  = pin_array_13x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5240881D;
+Reference = P5;
+ValeurCmp = CONN_4X2;
+IdModule  = pin_array_4x2;
+EndCmp
+
+EndListe
