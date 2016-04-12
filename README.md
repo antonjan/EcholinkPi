@@ -7,3 +7,4 @@ This PCB will be used by Radio Amateurs to create a local hotspot Link to Echoli
 3) The purpose of this board is to generate a VHF / UHF hotspot with [SVXLink] Echolink software on a Raspberry PI 2.<br>
 4) This PCB will be designed by Kicad<br>
 5) PCB will be developed with SMD components for automated assembly and to reduce cost on construktion.<br>
+6) The RF trancever will be a SA828 VHF or UHF module.<br>
